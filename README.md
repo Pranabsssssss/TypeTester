@@ -74,5 +74,3 @@ This project is open source under the MIT License.
 
 ---
 ```
-
-This will display your banner image directly from the provided raw URL, ensuring it loads properly on GitHub and anywhere else the README is rendered.
