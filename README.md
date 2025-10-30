@@ -41,11 +41,11 @@ Typester is a simple and elegant typing speed tester built using HTML, CSS, and 
 
 1. Clone the repository  
    ```
-   git clone https://github.com/your-username/Typester-main.git
+   git clone https://github.com/Pranabsssssss/TypeTester.git
    ```
 2. Open the project directory  
    ```
-   cd Typester-main
+   cd TypeTester
    ```
 3. Open `index.html` in your browser  
 
@@ -59,18 +59,4 @@ Typester is a simple and elegant typing speed tester built using HTML, CSS, and 
 
 ---
 
-## Future Updates
-
-- Add timer and statistics summary  
-- Introduce difficulty levels  
-- Local storage for test history  
-- Theme customization  
-
----
-
-## License
-
-This project is open source under the MIT License.
-
----
-```
+## Future
