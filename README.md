@@ -1,6 +1,6 @@
 # Typester
 
-![Typester Banner](./banner.jpg)
+![Typester Banner](https://raw.githubusercontent.com/Pranabsssssss/TypeTester/refs/heads/main/banner.jpg)
 
 Typester is a simple and elegant typing speed tester built using HTML, CSS, and JavaScript. It measures your words per minute (WPM), accuracy, and typing flow in real time.
 
@@ -59,4 +59,20 @@ Typester is a simple and elegant typing speed tester built using HTML, CSS, and 
 
 ---
 
-## Future
+## Future Updates
+
+- Add timer and statistics summary  
+- Introduce difficulty levels  
+- Local storage for test history  
+- Theme customization  
+
+---
+
+## License
+
+This project is open source under the MIT License.
+
+---
+```
+
+This will display your banner image directly from the provided raw URL, ensuring it loads properly on GitHub and anywhere else the README is rendered.
