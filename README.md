@@ -1,4 +1,4 @@
-# Typester
+# TypeTester
 
 ![Typester Banner](https://raw.githubusercontent.com/Pranabsssssss/TypeTester/refs/heads/main/banner.jpg)
 
