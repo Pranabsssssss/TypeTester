@@ -37,7 +37,7 @@ Typester is a simple and elegant typing speed tester built using HTML, CSS, and 
 
 ---
 
-## How to Run
+## How to Run Locally
 
 1. Clone the repository  
    ```
