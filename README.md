@@ -1,6 +1,6 @@
 # TypeTester
 
-![Typester Banner](https://raw.githubusercontent.com/Pranabsssssss/TypeTester/refs/heads/main/banner.jpg)
+![Typester Banner](https://raw.githubusercontent.com/Pranabsssssss/Typester/refs/heads/main/banner.jpg)
 
 Typester is a simple and elegant typing speed tester built using HTML, CSS, and JavaScript. It measures your words per minute (WPM), accuracy, and typing flow in real time.
 
