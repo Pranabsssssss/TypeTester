@@ -1,4 +1,4 @@
-# TypeTester
+# Typester
 
 ![Typester Banner](https://raw.githubusercontent.com/Pranabsssssss/Typester/refs/heads/main/banner.jpg)
 
@@ -73,4 +73,3 @@ Typester is a simple and elegant typing speed tester built using HTML, CSS, and 
 This project is open source under the MIT License.
 
 ---
-```
